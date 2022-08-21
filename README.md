@@ -1,8 +1,9 @@
 # Supervised_Machine_Learning
-Purpose, difficulties, results
 The purpose of this project is compare Oversampling with Undersampling machine learning
 with various techniques and combine them for SMOTEEN algorithm.
 
+
+The best algorithm for 
 RandomOverSampler 
 
 
